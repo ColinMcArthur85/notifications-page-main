@@ -6,9 +6,6 @@ body {
   font-family: "Plus Jakarta Sans", sans-serif;
   color: hsl(219, 12%, 42%);
   display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vw;
 }
 
 [class$=-profile] {
