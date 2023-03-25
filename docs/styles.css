@@ -5,10 +5,18 @@
 body {
   font-family: "Plus Jakarta Sans", sans-serif;
   color: hsl(219, 12%, 42%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vw;
 }
 
 [class$=-profile] {
   padding: 0em 0.25em 0em;
+}
+
+.hidden {
+  display: none;
 }
 
 .container {
